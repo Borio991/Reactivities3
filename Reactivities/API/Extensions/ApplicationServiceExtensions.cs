@@ -1,5 +1,5 @@
 using Application.Activities;
-using Application.Profiles;
+using Application.Core;
 using AutoMapper;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
